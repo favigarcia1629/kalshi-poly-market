@@ -2,6 +2,8 @@
 
 **Do prediction market probabilities on macro events lead, lag, or correlate with stock market movements?**
 
+🔗 **[Live Interactive Dashboard](https://public.tableau.com/app/profile/favianesi.garcia/viz/PredictionMarketsvsStockMarket/Dashboard1)**
+
 This project builds a real data pipeline: Python ETL pulls live prediction market data from Manifold Markets and Polymarket, stores it in PostgreSQL, and feeds Tableau Public for interactive visual analysis.
 
 ---
